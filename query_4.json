@@ -1,0 +1,152 @@
+[
+  {
+    "Month": "Oct 2021",
+    "Domain": "google.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Nov 2021",
+    "Domain": "google.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Jan 2022",
+    "Domain": "abcde.com",
+    "Sources": "Domain-X",
+    "Avg_NoOfVisit": 0.1667
+  },
+  {
+    "Month": "Jan 2022",
+    "Domain": "bing.com",
+    "Sources": "BING",
+    "Avg_NoOfVisit": 0.1000
+  },
+  {
+    "Month": "Jan 2022",
+    "Domain": "fghijk.com",
+    "Sources": "Domain-Z",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Jan 2022",
+    "Domain": "google.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.1667
+  },
+  {
+    "Month": "Jan 2022",
+    "Domain": "lmopq.com",
+    "Sources": "Domain-Y",
+    "Avg_NoOfVisit": 0.0667
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "4fghijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "abcde.com",
+    "Sources": "Domain-X",
+    "Avg_NoOfVisit": 0.2000
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "bing.com",
+    "Sources": "Bing",
+    "Avg_NoOfVisit": 0.1000
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "f5ghijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fg4hijk.com",
+    "Sources": "Domain-Z",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fg6hijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fg7hijk.com",
+    "Sources": "Domain-Z",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fgh7ijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0667
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghaijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghcwijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghdijk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghi2jk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghidjhk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghifjk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghihjk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghijk.com",
+    "Sources": "Domain-Z",
+    "Avg_NoOfVisit": 0.2667
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "fghijsrk.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.0333
+  },
+  {
+    "Month": "Feb 2022",
+    "Domain": "google.com",
+    "Sources": "Google",
+    "Avg_NoOfVisit": 0.3000
+  }
+]

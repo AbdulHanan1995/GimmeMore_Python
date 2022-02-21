@@ -1,0 +1,47 @@
+[
+  {
+    "Country": "PRT",
+    "Months": "Feb 2022",
+    "Customers": 33
+  },
+  {
+    "Country": "BEL",
+    "Months": "Feb 2022",
+    "Customers": 14
+  },
+  {
+    "Country": "DEU",
+    "Months": "Feb 2022",
+    "Customers": 12
+  },
+  {
+    "Country": "AFG",
+    "Months": "Feb 2022",
+    "Customers": 8
+  },
+  {
+    "Country": "FRA",
+    "Months": "Jan 2022",
+    "Customers": 4
+  },
+  {
+    "Country": "DEU",
+    "Months": "Jan 2022",
+    "Customers": 3
+  },
+  {
+    "Country": "AFG",
+    "Months": "Jan 2022",
+    "Customers": 2
+  },
+  {
+    "Country": "AUT",
+    "Months": "Feb 2022",
+    "Customers": 1
+  },
+  {
+    "Country": "RUS",
+    "Months": "Jan 2022",
+    "Customers": 1
+  }
+]
